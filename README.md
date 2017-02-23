@@ -21,6 +21,5 @@ Here’s an audit using
 3. Dataset APIs
 4. Spark SQL
 
-![alt tag](http://imgur.com/GiTe8kK)
-
+![Screenshot](rdddfdsssql.png)
 
